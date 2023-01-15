@@ -2,7 +2,11 @@
 
 
 It is a simple and stylish GYM Page made with HTML,CSS and JS. IT consist of three pages- Home,About,Contact. The code is very simple and easy to understand. Anyone with basic knowledge of front-end development can easily handle it and make changes according to his/her requirements.
-<img src="https://tinyurl.com/GYM1Pic" width=500 height=300>
+
+<hr>
+
+<img src="https://tinyurl.com/GYM1Pic" align="center" width=500 height=300>
+
 <hr>
 
 ## Requirements
