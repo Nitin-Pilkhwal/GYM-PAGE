@@ -9,7 +9,8 @@ It is a simple and stylish GYM Page made with HTML,CSS and JS. IT consist of thr
 
 For development, you will only need Node.js installed on your environement.
 And please use the appropriate [Editorconfig](http://editorconfig.org/) plugin for your Editor (not mandatory).
-<hr>
+
+
 ### Node
 
 [Node](http://nodejs.org/) is really easy to install & now include [NPM](https://npmjs.org/).
@@ -21,7 +22,8 @@ below.
 
     $ npm --version
     1.3.21
-<hr>
+
+
 #### Node installation on OS X
 
 You will need to use a Terminal. On OS X, you can find the default terminal in
@@ -34,31 +36,35 @@ Please install [Homebrew](http://brew.sh/) if it's not already done with the fol
 If everything when fine, you should run
 
     brew install node
-<hr>
+
 #### Node installation on Linux
 
     sudo apt-get install python-software-properties
     sudo add-apt-repository ppa:chris-lea/node.js
     sudo apt-get update
     sudo apt-get install nodejs
-<hr>
+
 #### Node installation on Windows
 
 Just go on [official Node.js website](http://nodejs.org/) & grab the installer.
 Also, be sure to have `git` available in your PATH, `npm` might need it.
 
 ---
+
 <hr>
+
 ## Install
 
     $ git clone https://github.com/ORG/Nitin-Pikhwal/GYM-PAGE.git
     $ cd GYM-PAGE
     $ npm install
 <hr>
+
 ## Simple build for production
 
     $ npm run build
 <hr>
+
 ## Update sources
 
 Some packages usages might change so you should run `npm prune` & `npm install` often.
