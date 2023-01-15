@@ -1,8 +1,8 @@
 # GYM PAGE
 
-## About Project
-It is a simple and stylish GYM Page made with HTML,CSS and JS. IT consist of three pages- Home,About,Contact. The code is very simple and easy to understand. Anyone with basic knowledge of front-end development can easily handle it and make changes according to his/her requirements.
 
+It is a simple and stylish GYM Page made with HTML,CSS and JS. IT consist of three pages- Home,About,Contact. The code is very simple and easy to understand. Anyone with basic knowledge of front-end development can easily handle it and make changes according to his/her requirements.
+<img src="https://tinyurl.com/GYM1Pic" width=500 height=300>
 <hr>
 
 ## Requirements
@@ -95,6 +95,7 @@ Then it will try a production build.
 
 ---
 <hr>
+
 ## Languages & tools
 
 ### HTML
@@ -113,6 +114,7 @@ Then it will try a production build.
 
 Autoprefixer is included and use [caniuse.com](http://caniuse.com/) database to avoid outdated prefixes. You can forget CSS prefixes NOW.
 <hr>
+
 ### Static server with Livereload
 
 The app embed for development a static connect server with livereload plugged.
