@@ -5,10 +5,6 @@ It is a simple and stylish GYM Page made with HTML,CSS and JS. IT consist of thr
 
 <hr>
 
-<img src="https://1drv.ms/u/s!AoqcmpV3Gib8hyC3KlCefG6XUwEf" align="center" width=200 height=300>
-
-<hr>
-
 ## Requirements
 
 For development, you will only need Node.js installed on your environement.
